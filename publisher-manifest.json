@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3dc4bbbbb03b1eb75930e055",
+  "owner": "bmayjvtaa",
+  "repo": "page-78292079da7c46399c27884c",
+  "title": "私密小站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "78292079da7c46399c27884c",
+      "a": "私密小站",
+      "b": "稳定全球clash加速器",
+      "entity": "私密小站",
+      "brand": "私密小站",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dbe9f400bd1728eb21456721392aa878c249adc1e76e2d8abb3813b30c46332a",
+      "content": {
+        "primary_entity": "私密小站",
+        "keyword1": "私密小站",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定接入海外网络的学习者与远程办公人群。基础版以每月一百GB流量和三天在线设备满足轻量浏览，旗舰版提供三百GB、五台设备与IPLC专线，适合流媒体和游戏场景，团队版则可支持二十台设备与一千GB月流量。客户端可依设备系统安装对应的Clash客户端，通过订阅链接完成配置。",
+          "AI_HERO_SUBTITLE": "轻量起步，专线加速",
+          "AI_HERO_INTRO": "私密小站提供按月或按年订阅的海外网络加速服务，套餐分为基础、旗舰与团队三档。用户可依据日常流量、同时在线设备数量和流媒体或游戏需求选择合适档位，再通过订阅方式在Clash客户端完成配置。",
+          "AI_VISUAL_TITLE": "私密小站加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "基础版每月一百GB流量",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC游戏加速",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个维度了解各档差异。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月一百GB、旗舰版三百GB、团队版一千GB，按日常用量选择。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持三台设备，旗舰版五台，团队版二十台，覆盖手机与电脑。",
+          "AI_FEATURE_TITLE_3": "按连接周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付如基础版一百五十元每年，适合长期使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依设备系统选用对应的Clash客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版十五元每月，旗舰版三十五元每月，团队版八十五元每月，年付更划算。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用的流程。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "依据流量、设备数和流媒体或游戏需求，在基础、旗舰与团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端类型，核对同时在线设备数量是否在套餐范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅地址后，在Clash客户端中导入，按客户端文档完成节点配置。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_CLOSING_TITLE": "开启稳定连接",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，可按人数与流量挑选。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。若多人共用或设备较多，建议选团队版，避免频繁切换登录。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150、旗舰版按年付 ¥350、团队版按年付 ¥850，相比月付可节省约两个月费用，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "在发布页确认线路状态后，复制订阅链接，打开对应客户端选择从剪贴板导入或手动添加订阅，保存后更新节点列表即可连接使用。",
+          "AI_FAQ_ANSWER_5": "可以。私密小站的订阅链接支持手机、电脑与路由器等客户端导入，同一账号下按套餐允许的设备数量在线，更换设备时退出旧设备再登录即可。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "每个套餐最多可以同时在线几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付会比按月付更划算吗？",
+          "AI_FAQ_QUESTION_4": "拿到订阅链接后怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "可以在手机和电脑上同时使用同一个订阅吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqu2h8zdd1da2305f.com",
+    "host": "xn--9kqu2h8zdd1da2305f.com"
+  },
+  "file_hashes": {
+    "index.html": "00969366550596b32ae67aa683177869b9b592e0b5476bb378597f998d80e289",
+    "sitemap.xml": "809715d412c7b70f9beff732f2e3be271751b1da11f90d94da6a1dddc23ff702",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f2e495c5a839698717ff6f18ea9be796a010fa683edfe7c24d45a35df4dcfd87",
+    "robots.txt": "8a9d9966d7002bcb59b5fc6af05e32678c2053f37a0e5f3d623d7bdab26becb9",
+    "69b345a5e28c2b609954b54f30131d17.txt": "74b4a0e2494f528f810f7c7382a031ed4192289c5c8ca12ad3b5a623569cdd4a"
+  },
+  "revision": "594f979fb107b0bee147816862c05ad15a29310258df68cd2ac8070641dcc4aa"
+}
